@@ -88,8 +88,8 @@ This program demonstrates function overloading in C++, where the same function n
   --Function 1: Takes two string arguments and returns their concatenation.
   --Function 2: Takes two char arguments, converts them to a string, and returns the result.
 3. In the main() function, create an object c of class Concat.
-4. Call c.Concatenate("Nishka", "Ranadive") → calls the string version of the function.
-5. Call c.Concatenate('N', 'R') → calls the character version of the function.
+4. Call c.Concatenate("Shwe", "Kor") → calls the string version of the function.
+5. Call c.Concatenate('S', 'K') → calls the character version of the function.
 6. Display the results of both function calls.
 7. End the program.
 
